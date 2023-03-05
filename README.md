@@ -24,7 +24,8 @@
 ![Скриншот-1](https://github.com/Kirill-pixel/Netology-8.3/blob/main/2.png)
 ![Скриншот-1](https://github.com/Kirill-pixel/Netology-8.3/blob/main/2-1.png)
 
-`stages:
+## Pipeline
+```stages:
   - test
   - build
 
@@ -38,4 +39,4 @@ build:
   stage: build
   image: docker:latest
   script:
-   - docker build .`
+   - docker build .```
