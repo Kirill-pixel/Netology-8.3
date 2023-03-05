@@ -1,7 +1,5 @@
 # Netology-8.2. Что такое DevOps. СI/СD
 
----
-
 ### Задание 1
 
 1. Разверните GitLab локально, используя Vagrantfile и инструкцию, описанные в этом репозитории.
@@ -10,7 +8,11 @@
 
 `В качестве ответа в репозиторий шаблона с решением добавьте скриншоты с настройками раннера в проекте.`
 
-![Скриншот-1](https://github.com/Kirill-pixel/Netology-8.2/blob/main/8.2%20CI-CD/1.png)
+![Скриншот-1](https://github.com/Kirill-pixel/Netology-8.3/blob/main/1-2.png)
+![Скриншот-1](https://github.com/Kirill-pixel/Netology-8.3/blob/main/1.png)
+![Скриншот-1](https://github.com/Kirill-pixel/Netology-8.3/blob/main/1-3.png)
+
+---
 
 ### Задание 2
 
