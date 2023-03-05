@@ -21,4 +21,21 @@
 
 `В качестве ответа в шаблон с решением добавьте:`
 
-![Скриншот-1](https://github.com/Kirill-pixel/Netology-8.2/blob/main/8.2%20CI-CD/2.1.png)
+![Скриншот-1](https://github.com/Kirill-pixel/Netology-8.3/blob/main/2.png)
+![Скриншот-1](https://github.com/Kirill-pixel/Netology-8.3/blob/main/2-1.png)
+
+`stages:
+  - test
+  - build
+
+test:
+  stage: test
+  image: golang:1.17
+  script: 
+   - go test .
+
+build:
+  stage: build
+  image: docker:latest
+  script:
+   - docker build .`
