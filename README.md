@@ -1,4 +1,4 @@
-# Netology-8.2. Что такое DevOps. СI/СD
+# Netology-8.3. GitLab
 
 ### Задание 1
 
